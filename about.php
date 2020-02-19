@@ -280,7 +280,7 @@ function cleanse_data($data)
         <a href="https://www.facebook.com/john.mills.5836" target="_blank" class="fa fa-facebook"></a>
         <a href="https://www.linkedin.com/in/john-mills/" target="_blank" class="fa fa-linkedin"></a>
         <a href="mailto:eqpal8@gmail.com?Subject=Resume%20Website" class="fa fa-envelope-o"></a>
-        <a href="tel:+17026015886" class="fa fa-phone"></a>
+        <a href="tel:" class="fa fa-phone"></a>
     </div>
 
     </div>
