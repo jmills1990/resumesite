@@ -1,0 +1,59 @@
+[01-Aug-2019 00:43:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/crlwnomy/public_html/jmills/database.php on line 25
+[01-Aug-2019 00:47:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/crlwnomy/public_html/jmills/database.php on line 25
+[01-Aug-2019 00:47:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/crlwnomy/public_html/jmills/database.php on line 25
+[01-Aug-2019 00:47:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/crlwnomy/public_html/jmills/database.php on line 25
+[01-Aug-2019 00:47:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/crlwnomy/public_html/jmills/database.php on line 25
+[01-Aug-2019 00:47:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/crlwnomy/public_html/jmills/database.php on line 25
+[01-Aug-2019 01:48:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function create_table() in /home2/crlwnomy/public_html/jmills/database.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/crlwnomy/public_html/jmills/database.php on line 3
+[01-Aug-2019 01:49:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function create_table() in /home2/crlwnomy/public_html/jmills/database.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/crlwnomy/public_html/jmills/database.php on line 3
+[01-Aug-2019 01:50:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function exec() on null in /home2/crlwnomy/public_html/jmills/database.php:38
+Stack trace:
+#0 /home2/crlwnomy/public_html/jmills/database.php(3): create_table()
+#1 {main}
+  thrown in /home2/crlwnomy/public_html/jmills/database.php on line 38
+[01-Aug-2019 01:51:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function exec() on null in /home2/crlwnomy/public_html/jmills/database.php:38
+Stack trace:
+#0 /home2/crlwnomy/public_html/jmills/database.php(3): create_table()
+#1 {main}
+  thrown in /home2/crlwnomy/public_html/jmills/database.php on line 38
+[01-Aug-2019 01:53:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function exec() on null in /home2/crlwnomy/public_html/jmills/database.php:38
+Stack trace:
+#0 /home2/crlwnomy/public_html/jmills/database.php(3): create_table()
+#1 {main}
+  thrown in /home2/crlwnomy/public_html/jmills/database.php on line 38
+[01-Aug-2019 01:55:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function exec() on null in /home2/crlwnomy/public_html/jmills/database.php:38
+Stack trace:
+#0 /home2/crlwnomy/public_html/jmills/database.php(3): create_table()
+#1 {main}
+  thrown in /home2/crlwnomy/public_html/jmills/database.php on line 38
+[08-Aug-2019 02:10:14 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function contact_insert(), 0 passed in /home3/crlwnomy/public_html/jmills/database.php on line 7 and exactly 4 expected in /home3/crlwnomy/public_html/jmills/database.php:50
+Stack trace:
+#0 /home3/crlwnomy/public_html/jmills/database.php(7): contact_insert()
+#1 {main}
+  thrown in /home3/crlwnomy/public_html/jmills/database.php on line 50
+[08-Aug-2019 02:11:08 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function contact_form_insert(), 0 passed in /home3/crlwnomy/public_html/jmills/database.php on line 6 and exactly 5 expected in /home3/crlwnomy/public_html/jmills/database.php:68
+Stack trace:
+#0 /home3/crlwnomy/public_html/jmills/database.php(6): contact_form_insert()
+#1 {main}
+  thrown in /home3/crlwnomy/public_html/jmills/database.php on line 68
+[08-Aug-2019 02:11:10 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function contact_form_insert(), 0 passed in /home3/crlwnomy/public_html/jmills/database.php on line 6 and exactly 5 expected in /home3/crlwnomy/public_html/jmills/database.php:68
+Stack trace:
+#0 /home3/crlwnomy/public_html/jmills/database.php(6): contact_form_insert()
+#1 {main}
+  thrown in /home3/crlwnomy/public_html/jmills/database.php on line 68
+[08-Aug-2019 02:14:33 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function contact_form_insert(), 0 passed in /home3/crlwnomy/public_html/jmills/database.php on line 6 and exactly 5 expected in /home3/crlwnomy/public_html/jmills/database.php:68
+Stack trace:
+#0 /home3/crlwnomy/public_html/jmills/database.php(6): contact_form_insert()
+#1 {main}
+  thrown in /home3/crlwnomy/public_html/jmills/database.php on line 68
+[08-Aug-2019 02:14:37 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function contact_form_insert(), 0 passed in /home3/crlwnomy/public_html/jmills/database.php on line 6 and exactly 5 expected in /home3/crlwnomy/public_html/jmills/database.php:68
+Stack trace:
+#0 /home3/crlwnomy/public_html/jmills/database.php(6): contact_form_insert()
+#1 {main}
+  thrown in /home3/crlwnomy/public_html/jmills/database.php on line 68
